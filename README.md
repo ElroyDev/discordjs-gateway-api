@@ -1,4 +1,4 @@
-# Express API Template Project 🥳
+# Discord TypeScript Gateway API 🥳
 ## Download
 You can download the packages required by the project to the project with your existing package manager!
 ```bash
